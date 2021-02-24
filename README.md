@@ -1,4 +1,3 @@
-# Base Rails
 1. This is still a work in progress for the final project. 
 2. We are still adding functionality so we could ideally hook up APIs and have logins be functional. 
 
